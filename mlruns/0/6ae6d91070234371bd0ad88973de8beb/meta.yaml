@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/BELAJAR%20AI/Diabetes/mlruns/0/6ae6d91070234371bd0ad88973de8beb/artifacts
+end_time: 1750914269058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ae6d91070234371bd0ad88973de8beb
+run_name: spiffy-cub-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750914266124
+status: 3
+tags: []
+user_id: ASUS

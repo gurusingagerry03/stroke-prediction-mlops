@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/BELAJAR%20AI/Diabetes/mlruns/0/316f67e1747d4cba9097d34b8d812d1a/artifacts
+end_time: 1750915457456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 316f67e1747d4cba9097d34b8d812d1a
+run_name: unique-rat-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750915452975
+status: 3
+tags: []
+user_id: ASUS

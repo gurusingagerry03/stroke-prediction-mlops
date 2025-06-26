@@ -1,0 +1,10 @@
+artifact_location: file:///D:/BELAJAR%20AI/Diabetes/mlruns/0/models/m-119f2868eb884cd2bf51880dc0e6006c/artifacts
+creation_timestamp: 1750915191500
+experiment_id: '0'
+last_updated_timestamp: 1750915194557
+model_id: m-119f2868eb884cd2bf51880dc0e6006c
+model_type: null
+name: model
+source_run_id: dd8f7edae1624406bfb4ca1baae34942
+status: 2
+status_message: null

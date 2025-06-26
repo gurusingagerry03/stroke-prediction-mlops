@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/BELAJAR%20AI/Diabetes/mlruns/0/74665f75bf4f4bc695c0ed0d9a0f5837/artifacts
+end_time: 1750914888054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74665f75bf4f4bc695c0ed0d9a0f5837
+run_name: clean-mole-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750914884879
+status: 3
+tags: []
+user_id: ASUS

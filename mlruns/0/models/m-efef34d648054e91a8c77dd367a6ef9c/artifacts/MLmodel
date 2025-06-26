@@ -1,0 +1,22 @@
+artifact_path: file:///D:/BELAJAR%20AI/Diabetes/mlruns/0/models/m-efef34d648054e91a8c77dd367a6ef9c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-efef34d648054e91a8c77dd367a6ef9c
+model_size_bytes: 3780
+model_uuid: m-efef34d648054e91a8c77dd367a6ef9c
+prompts: null
+run_id: 44b7820106e640179ea9370ddacef2c5
+utc_time_created: '2025-06-26 05:04:32.029269'

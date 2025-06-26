@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/BELAJAR%20AI/Diabetes/mlruns/0/0fd5accd76d0425b876aaaf9fbe31bda/artifacts
+end_time: 1750915809413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fd5accd76d0425b876aaaf9fbe31bda
+run_name: suave-cod-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750915805335
+status: 3
+tags: []
+user_id: ASUS
